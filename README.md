@@ -5,7 +5,7 @@ Welcome to my **C++ Basics** repository! This project serves as a comprehensive 
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Topics Covered](#topics-covered)
-   - [Flowcharts and Pseudo Code]
+   - [Flowcharts and Pseudo Code](#Flowcharts-and-Pseudo-Code)
    - [Boilerplate Code, Variables, and Data Types](#boilerplate-code-variables-and-data-types)
    - [Constants and Operators](#constants-and-operators)
    - [Conditional Statements](#conditional-statements)
